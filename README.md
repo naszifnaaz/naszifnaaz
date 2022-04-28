@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Nasif</h1>
-<h3 align="center">Full Stack Web Developer (MERN)🌟</h3>
+<h4 align="center">I am a Full Stack Developer specialised in MERN Stack, <br/> making use of web technologies and tools to build amazing products for the internet.<br /> I am a Computer Science graduate having a Bachelor's degree in Information Science and Engineering.</h4>
 
 <br>
 
